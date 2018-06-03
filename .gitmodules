@@ -1,0 +1,3 @@
+[submodule "fed-challenge/coursework/2101-PixelArtMaker"]
+	path = fed-challenge/coursework/2101-PixelArtMaker
+	url = git@github.com:asiahoe/pixel-art-maker
