@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* What new skills have you learned?
+  - These skills are not new to me, although I did learn about some deprecated tags, like <strike>.
+* What has been easy?
+  - This has all been very easy for me.
+* What has been difficult?
+  - Going back and forth opening files in Chrome, which doesn't natively open local files, was annoying, so I ran a local server with Python.
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+  - Research was a big thing for me. In my initial run learning HTML and CSS, the Mozilla Developer Network didn't exist yet, so my primary resource was a book. It's very nice to be able to search the network or the internet.
