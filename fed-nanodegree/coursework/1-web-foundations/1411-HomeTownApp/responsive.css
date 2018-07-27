@@ -1,0 +1,35 @@
+@media screen and (max-width: 549px) {
+
+  .header {
+    padding: 0 1em;
+  }
+
+  .header__inner {
+    display: grid;
+      grid-template-columns: 1fr 6fr 1fr;
+    height: 56px;
+  }
+
+  .header__inner > * {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .header__logo {
+    height: 2.5em;
+    vertical-align: middle;
+  }
+
+  .header__title {
+    font-size: 2em;
+    margin: 0;
+  }
+
+  .header__menu {
+    font-size: 2.5em;
+    justify-content: flex-end;
+    width: 48px;
+  }
+
+}
