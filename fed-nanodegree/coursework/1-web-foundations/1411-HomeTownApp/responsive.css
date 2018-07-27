@@ -32,4 +32,27 @@
     width: 48px;
   }
 
+  footer {
+    padding: 0;
+  }
+
+  footer ul {
+    display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    padding: 0;
+  }
+
+  footer li {
+    margin: 0;
+  }
+
+  footer a {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+    margin: auto;
+    padding: 0;
+    height: 4em;
+  }
+
 }
