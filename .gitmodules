@@ -4,3 +4,6 @@
 [submodule "fed-nanodegree/coursework/1-web-foundations/Project1-Portfolio"]
 	path = fed-nanodegree/coursework/1-web-foundations/Project1-Portfolio
 	url = git@github.com:asiahoe/udacity-portfolio.git
+[submodule "fed-nanodegree/coursework/2-programming-js/Project2-MemoryGame"]
+	path = fed-nanodegree/coursework/2-programming-js/Project2-MemoryGame
+	url = git@github.com:asiahoe/fend-project-memory-game.git
